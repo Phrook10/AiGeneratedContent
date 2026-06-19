@@ -11,25 +11,25 @@ Each project focuses on treating AI outputs as something that can be directed th
 ### Coastal Drive
 A multi-shot driving sequence exploring motion, speed, and spatial continuity.
 
-→ ./CoastalDrive/
+→ [View Breakdown](./CoastalDrive/)
 
 ---
 
 ### Rise and Fall of Civilization
 An experiment in large-scale environmental transformation through chained generations.
 
-→ ./Civilization/
+→ [View Breakdown](./Civilization/)
 
 ---
 
 ### Time Squad Teaser
 A short-form project exploring character consistency, animation, and voice integration.
 
-→ ./TimeSquad/
+→ [View Breakdown](./TimeSquad/)
 
 ---
 
 ### Character Studies
 Exploring identity preservation across character models and expression systems.
 
-→ ./CharacterStudies/
+→ [View Breakdown](./CharacterStudies/)
