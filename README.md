@@ -10,7 +10,7 @@ Each project focuses on treating AI outputs as something that can be directed th
 
 These projects focus on exploring control, consistency, and workflow design in generative AI systems.
 
-Rather than producing fully polished final media, the goal is to understand and influence model behavior — including motion, continuity, identity, and scene structure — through structured prompting and iterative refinement.
+Rather than producing fully polished final media, the goal is to understand and influence model behavior including motion, continuity, identity, and scene structure through structured prompting and iterative refinement.
 
 ---
 
