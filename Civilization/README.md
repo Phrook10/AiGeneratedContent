@@ -242,3 +242,4 @@ Only the original hill remains. No trace of civilization is visible. Hold for 2 
 - Stateless generation requires explicit reconstruction of prior context in every prompt
 - Spatial consistency is best preserved through reference chaining, not rule enforcement alone
 - Complex transformations are significantly more reliable when broken into discrete stages
+- Mixing models across clips is not the most effective way to get consistent image quality
